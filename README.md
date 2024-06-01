@@ -549,3 +549,383 @@ In the rapidly evolving landscape of digital finance, the PIA Token stands out a
 ### Conclusion
 
 Choosing PIA Token means opting for a secure, scalable, and cost-effective cryptocurrency that is built with the future in mind. With its strong emphasis on security, low transaction costs, interoperability, and community governance, PIA Token is well-positioned to become a leading player in the digital finance landscape. Join us on this journey to redefine the future of finance with PIA Token.
+
+
+## 💱Tokenomics:
+
+### Overview
+
+PiaCoin (PIA) is the native cryptocurrency of the Piacoin protocol, serving as both a medium of exchange and a store of value within the ecosystem. Built as a BEP-20 token on the Ethereum blockchain, Piacoin leverages the robust security and interoperability features of the Ethereum network to provide a reliable and efficient digital currency.
+
+### Token Details
+
+**Token Name:** Piacoin
+
+**Token Symbol:** PIA
+
+**Token Type:** BEP-20
+
+**Max Supply:** 666,888 PIA
+
+**Total Supply:** 666,888 PIA
+
+**Contract Address:** 0x53e80745188f63b2a36d18a9f200969d4964cd34
+
+<img src="https://github.com/piacoin/PIA-Whitepaper-1.0/assets/170834079/24201f78-1597-46e3-8581-d95771dfb56f" alt="Resim Açıklaması" width="500">
+
+### Distribution
+
+Piacoin's total supply is fixed at 666,888 PIA tokens, ensuring scarcity and value preservation for token holders. The distribution model is designed to support the long-term growth and stability of the ecosystem. The allocation of tokens is as follows:
+
+**Funding Allocation:** 425.000 PIA
+
+**Reserves:** 108.512 PIA
+
+**Ecosystem:** 66.688 PIA
+
+**Marketing and Community Building:** 33.344 PIA
+
+**Rewards:** 33.344 PIA
+
+### Utility and Use Cases
+
+Piacoin is designed to serve multiple functions within the ecosystem, providing value and utility to its users:
+
+**Medium of Exchange:** PIA can be used to transact within the Piacoin ecosystem, facilitating the exchange of goods and services.
+
+**Store of Value:** As a scarce digital asset, PIA acts as a store of value, allowing users to preserve wealth over time.
+
+**Participation in Governance:** Token holders can participate in the governance of the protocol, voting on key decisions and proposals to shape the future direction of the ecosystem.
+
+**Access to Premium Features:** Certain advanced features and services within the Piacoin ecosystem may require PIA tokens, incentivizing holding and usage of the token.
+
+### Conclusion
+
+The tokenomics of Piacoin are designed to create a sustainable and scalable ecosystem. By ensuring a balanced distribution, robust utility, and strategic allocation of resources, Piacoin aims to provide lasting value to its community and stakeholders. As the ecosystem grows, Piacoin will continue to evolve, adapting to new opportunities and challenges while maintaining its core principles of security, interoperability, and community-driven development.
+
+## ♻️Funding Allocation
+
+### Overview of Funding Stages
+
+Piacoin is committed to ensuring a transparent and structured funding allocation process. Below is a detailed breakdown of our funding stages, from Seed Sale to Exchange Listing.
+
+### Seed Sale
+
+**Status:** Active
+
+**Allocation:** 75,000 PIA
+
+**Price per $PIA:** $1
+
+**Start Date&Time:** 06/05/2024 - 03:00 AM
+
+**Finish Date:** 06/25/2024 - 03:00 AM
+
+The Seed Sale is currently in its active stage, offering early investors an opportunity to purchase Piacoin at a highly favorable rate.
+
+### Initial Coin Offering (ICO)
+
+The ICO is structured in multiple rounds to gradually increase the value of Piacoin, rewarding early participants and creating a scalable growth model.
+
+### ICO Round 1:
+
+**Allocation:** 50,000 PIA
+
+**Price per $PIA:** $2
+
+**Start Date&Time:** 06/05/2024 - 03:00 AM
+
+**Finish Date&Time:** 06/25/2024 - 03:00 AM
+
+### ICO Round 2:
+
+**Allocation:** 50,000 PIA
+
+**Price per $PIA:** $3
+
+**Start Date&Time:** 07/15/2024 - 03:00 AM
+
+**Finish Date&Time:** 08/04/2024 - 03:00 AM
+
+### ICO Round 3:
+
+**Allocation:** 50,000 PIA
+
+**Price per $PIA:** $4
+
+**Start Date&Time:** 08/04/2024 - 03:00 AM
+
+**Finish Date&Time:** 08/24/2024 - 03:00 AM
+
+### ICO Round 4:
+
+**Allocation:** 50,000 PIA
+
+**Price per $PIA:** $5
+
+**Start Date&Time:** 08/24/2024 - 03:00 AM
+
+**Finish Date&Time:** 09/13/2024 - 03:00 AM
+
+### ICO Round 5:
+
+**Allocation:** 50,000 PIA
+
+**Price per $PIA:** $6
+
+**Start Date&Time:** 09/13/2024 - 03:00 AM
+
+**Finish Date&Time:** 10/03/2024 - 03:00 AM
+
+### Private Sale
+
+**Allocation:** 50,000 PIA
+
+**Price per $PIA:** $7.5
+
+**Start Date&Time:** 10/03/2024 - 03:00 AM
+
+**Finish Date&Time:** 10/23/2024 - 03:00 AM
+
+The Private Sale is designed for strategic investors who contribute significantly to the Piacoin project, offering them a dedicated allocation at a premium price.
+
+### Pink Sale DEX & Big Exchange IEO
+
+**Allocation:** 50,000 PIA (IEO: 25,000 PIA - IDO: 25,000 PIA)
+
+**Price per $PIA:** $10
+
+**Start Date&Time:** 10/03/2024 - 03:00 AM
+
+**Finish Date&Time:** 11/23/2024 - 03:00 AM
+
+The Private Sale is designed for strategic investors who contribute significantly to the Piacoin project, offering them a dedicated allocation at a premium price.
+
+**Listing Opening Price:** 1 $PIA = $25 USDT
+
+**DEX & CEX Listing Date&Time:** 11/23/2024 - 03:00 AM
+
+$PIA token will be listed on both DEX and CEX platforms on November 23, 2024, at 03:00 AM, with an opening price of 1 $PIA = 25 USDT. This listings will enhance $PIA's market presence by providing investors with wide access and liquidity.
+
+## 🥇Listing Plan:
+
+Piacoin aims to achieve listings on major cryptocurrency exchanges such as Binance, Huobi, OKEX, MEXC and Gate.io to boost project visibility and liquidity. We will work closely with these exchanges to facilitate smooth trading of the PIA token for our users.
+
+Listing on these established exchanges provides several advantages for the Piacoin ecosystem, including:
+
+### 1. Broader Visibility
+Being listed on top exchanges introduces the project to a wider audience of traders and investors, significantly increasing its presence within the cryptocurrency community.
+
+### 2. Enhanced Liquidity
+Trading on reputable exchanges allows Piacoin users to access a larger market of potential buyers and sellers, ensuring higher liquidity and more accurate price discovery for the token.
+
+### 3. Increased Trust
+Collaborating with well-known exchanges enhances the credibility and trustworthiness of the Piacoin project, giving users confidence in the token's legitimacy and security.
+
+We are dedicated to partnering with exchange platforms, adhering to their listing criteria, and providing a seamless and efficient trading experience for Piacoin token holders.
+
+## 🚀Technical Algorithms:
+
+Sure! Here is a well-structured version of the provided content:
+
+### 1. Token Specifications
+
+**BEP-20 Compliance**
+
+Piacoin adheres to the BEP-20 token standard, ensuring compatibility with the extensive ecosystem of decentralized applications (dApps) on the Binance Smart Chain (BSC). This section details Piacoin's compliance with these standards and the technical implications for users and developers.
+
+**Smart Contract Functionalities**
+
+This section explores Piacoin's smart contract architecture in detail, highlighting any custom features that distinguish Piacoin from other tokens. This includes unique mechanisms for transaction fees, token burns, or automated liquidity provisions.
+
+### 2. Consensus Mechanism
+
+**Interaction with BSC Framework**
+
+An overview of how Piacoin operates within the BSC's consensus mechanism (Proof of Staked Authority or similar) is provided, detailing specific interactions or optimizations made for Piacoin transactions. This section explains the balance between speed, security, and decentralization achieved through these interactions.
+
+**Enhancements for Transaction Integrity and Network Security**
+
+If Piacoin introduces enhancements or modifications to the standard BSC framework to improve security or efficiency, these changes and their benefits are described in this section.
+
+### 3. Cryptographic Methods
+
+**Cryptographic Techniques**
+
+Detailing the cryptographic methods used in Piacoin for securing transactions, including the types of hashing algorithms, digital signatures, and any advanced encryption techniques. This includes specifics on how these methods are applied to wallet security and smart contract execution.
+
+**Security Protocols**
+
+A discussion of the security protocols and measures implemented to safeguard against common vulnerabilities and attacks within the blockchain space.
+
+### 4. Smart Contracts
+
+**Operational Logic**
+
+Providing a deep dive into the smart contracts powering the Piacoin ecosystem. This includes token distribution, governance, staking, and swap functionalities. Where applicable, pseudo-code or algorithmic descriptions are used to illustrate how these contracts operate and interact with users and other contracts.
+
+**Custom Features and Integrations**
+
+Describing any innovative features or integrations in Piacoin's smart contracts, such as automated market makers or oracle use, and the benefits they bring to the ecosystem.
+
+### 5. Staking and Reward Distribution Algorithms
+
+**Staking Process**
+
+Describing the algorithmic process by which tokens are staked within the Piacoin ecosystem, including any requirements or conditions for participants.
+
+**Reward Calculation**
+
+Providing a detailed explanation of how staking rewards are calculated, including factors that influence reward distribution such as the amount staked, duration, and network participation.
+
+**Incentive Mechanisms**
+
+Detailing mechanisms in place to incentivize long-term holding or participation, including their intended impact on network health and the token economy.
+
+### 6. Transaction Processing and Validation
+
+**BSC Transaction Processing**
+
+Elaborating on the process for transaction validation and processing specific to Piacoin on the BSC network, including any optimizations for speed, cost, or security.
+
+**Unique Features for Efficiency or Security**
+
+Highlighting any Piacoin-specific features that enhance transaction efficiency or security, such as custom gas fee structures or priority mechanisms.
+
+### 7. Swapping Algorithms
+
+**Introduction**
+
+Introducing the Swap dApp as a pivotal component of the Piacoin ecosystem, designed to offer a secure and straightforward platform for swapping Piacoin (PIA) with other cryptocurrencies exclusively within the Binance Smart Chain (BSC) network.
+
+**Automated Market Maker (AMM)**
+
+Describing the AMM model used by the Swap dApp to facilitate decentralized trading, eliminating the need for traditional order books and relying on liquidity pools for price determination and trade execution.
+
+**Liquidity Pools**
+
+Highlighting the role of liquidity pools in the Swap dApp, enabling users to contribute assets to pools in exchange for liquidity provider (LP) tokens. These pools are crucial for ensuring sufficient market depth and liquidity, enabling seamless token swaps.
+
+**User-Friendly Interface**
+
+Stressing the importance of the dApp's intuitive design, which simplifies processes such as swapping tokens, adding or removing liquidity, and wallet integration, catering to both novice and experienced users.
+
+**Technical Architecture**
+
+Detailing the Swap dApp's technical architecture, focusing on its integration with the Binance Smart Chain and the robust smart contracts underpinning its functionalities, including swapping mechanisms, liquidity management, and secure wallet connections.
+
+**Direct and Efficient Swapping**
+
+Explaining the efficient swapping mechanism of the dApp, allowing for quick and direct exchanges of Piacoin with other BSC-based tokens without intermediaries.
+
+**Control Over Funds**
+
+Highlighting the non-custodial nature of the Swap dApp, ensuring users maintain full control over their digital assets, enhancing trust and security.
+
+**Incentives for Participation**
+
+Describing how the dApp incentivizes active participation by rewarding users who provide liquidity with a share of transaction fees, fostering a vibrant and liquid market environment.
+
+### 8. Liquidity Provision and Incentives
+
+**Becoming a Liquidity Provider**
+
+Diving into the process of becoming a liquidity provider, including the benefits of contributing to liquidity pools such as earning a portion of the trading fees. Outlining any additional incentives or rewards programs designed to attract and retain liquidity providers, emphasizing their role in the ecosystem’s health and stability.
+
+**Multi-Wallet Connectivity**
+
+Highlighting the dApp’s compatibility with various cryptocurrency wallets, enabling users to connect multiple wallets for a flexible and secure trading experience.
+
+**Mobile Accessibility**
+
+Emphasizing the dApp’s design and optimization for mobile devices, ensuring users can swap tokens, manage liquidity, and connect their wallets on-the-go. This mobile-first approach caters to the growing segment of users who prefer managing their crypto assets via smartphones.
+
+## 🛣️Roadmap:
+
+This text details the key milestones and phases of our project's development, guiding you through our progress from concept generation to the launch of Piaverse and beyond. Each phase is critical to ensuring a seamless and robust launch, and we are excited to share our journey with you.
+
+<img src="https://github.com/piacoin/PIA-Whitepaper-1.0/assets/170834079/d7c7d40f-bb54-4dde-8bae-d1195858cfc0" alt="Resim Açıklaması" width="500">
+
+### Q2 2024: Foundation and Preparation
+
+**Concept Generation ☑**
+
+We began by brainstorming and refining the core concept of Piacoin and its associated platforms. This phase involved intensive research and strategic planning to outline the vision and objectives of our project.
+
+**Backend Preparation for PIA Launch ☑**
+
+Our technical team focused on preparing the backend infrastructure to support the launch of Piacoin (PIA). This included setting up servers, databases, and ensuring the robustness of our blockchain network to handle high transaction volumes.
+
+**Completion of the Whitepaper ☑**
+
+We finalized and published the official whitepaper, providing a comprehensive overview of our project's vision, technology, and strategic plans. The whitepaper serves as a fundamental document for investors and stakeholders to understand the scope and potential of Piacoin.
+
+### Q3 2024: Initial Offering and Platform Optimization (Ongoing)
+
+**PIA Initial Coin Offering ☑**
+
+We successfully launched the initial coin offering (ICO) for Piacoin, attracting early investors and raising the necessary capital to fund the development phases.
+
+**PIA Launchpad Platform Optimizations ☑**
+
+Continuous improvements and optimizations were made to the PIA Launchpad platform to enhance user experience, security, and transaction efficiency.
+
+**PIA Initial DEX Offering (PinkSale)**
+
+We initiated the Initial DEX Offering (IDO) on PinkSale, providing a decentralized platform for early trading of Piacoin. This step is crucial for increasing liquidity and accessibility for investors.
+
+### Q4 2024: Expanding Ecosystem and Launching Core Services
+
+**PIA COIN DEX & CEX Listing**
+
+Piacoin will be listed on both decentralized exchanges (DEX) and centralized exchanges (CEX), expanding its market presence and increasing its availability for trading.
+
+**Farming & Liquidity Pools**
+
+We will launch farming and liquidity pool features, allowing users to earn rewards by staking their Piacoin and providing liquidity to the market. This step is vital for enhancing the platform's economic stability and user engagement.
+
+**Launch PIADEX DAPP**
+
+The PIADEX decentralized application (DAPP) will go live, offering users a seamless interface for trading and managing their Piacoin assets.
+
+### Q1 2025: Enhancing User Engagement and Governance
+
+**PIA Stake DAPP Integration**
+
+Integration of the PIA Stake DAPP will enable users to stake their Piacoin and earn rewards, promoting long-term holding and network security.
+
+**DAO Toolkit Optimization**
+
+We will optimize our DAO (Decentralized Autonomous Organization) toolkit, empowering the community to participate in governance and decision-making processes effectively.
+
+**Launch Beta Version of PIA Android & iOS App**
+
+A beta version of the PIA mobile app will be released for both Android and iOS, providing users with convenient access to Piacoin services on the go.
+
+### Q2 2025: Developer Tools and Blockchain Expansion
+
+**DeFi Tools for Developers**
+
+We will introduce a suite of DeFi (Decentralized Finance) tools for developers, fostering innovation and the creation of new decentralized applications on the Piacoin network.
+
+**PIACHAIN Test-net Launch**
+
+The test-net for PIACHAIN will be launched, allowing developers and users to test the blockchain's capabilities and functionalities before the main-net release.
+
+**General Blockchain Access API**
+
+A general API will be made available, providing easy access to the Piacoin blockchain for developers and businesses looking to integrate blockchain technology into their operations.
+
+### Q3 2025: Entering the Virtual Universe
+
+**Creating PIAVERSE Bridges**
+
+We will develop bridges to connect PIAVERSE with other blockchain ecosystems, ensuring interoperability and seamless asset transfers between different platforms.
+
+**PIAVERSE Beta Release**
+
+The beta version of PIAVERSE, our fully immersive virtual universe, will be launched. Users will be able to explore, interact, and transact within this digital world, experiencing the future of virtual reality.
+
+**AI Integration for PIAVERSE**
+
+Artificial intelligence will be integrated into PIAVERSE to enhance user interactions, automate various processes, and create a more dynamic and responsive virtual environment.
